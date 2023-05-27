@@ -1,0 +1,15 @@
+.vscode/
+Assembly-CSharp.csproj
+First-3D-Game-2023.sln
+Library/
+Logs/
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
+blocklarge.fbx
+obj/
+Assets/PolygonBattleRoyale/
+Assets/TextMesh*Pro/
+*.meta
+
